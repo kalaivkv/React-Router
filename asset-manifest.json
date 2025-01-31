@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-formUsingHooks/static/css/main.1159271d.css",
+    "main.js": "/react-formUsingHooks/static/js/main.faea5b22.js",
+    "static/js/488.0f84848b.chunk.js": "/react-formUsingHooks/static/js/488.0f84848b.chunk.js",
+    "index.html": "/react-formUsingHooks/index.html",
+    "main.1159271d.css.map": "/react-formUsingHooks/static/css/main.1159271d.css.map",
+    "main.faea5b22.js.map": "/react-formUsingHooks/static/js/main.faea5b22.js.map",
+    "488.0f84848b.chunk.js.map": "/react-formUsingHooks/static/js/488.0f84848b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1159271d.css",
+    "static/js/main.faea5b22.js"
+  ]
+}
