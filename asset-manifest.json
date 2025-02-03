@@ -1,15 +1,19 @@
 {
   "files": {
-    "main.css": "/react-formUsingHooks/static/css/main.1159271d.css",
-    "main.js": "/react-formUsingHooks/static/js/main.faea5b22.js",
-    "static/js/488.0f84848b.chunk.js": "/react-formUsingHooks/static/js/488.0f84848b.chunk.js",
-    "index.html": "/react-formUsingHooks/index.html",
-    "main.1159271d.css.map": "/react-formUsingHooks/static/css/main.1159271d.css.map",
-    "main.faea5b22.js.map": "/react-formUsingHooks/static/js/main.faea5b22.js.map",
-    "488.0f84848b.chunk.js.map": "/react-formUsingHooks/static/js/488.0f84848b.chunk.js.map"
+    "main.css": "/Cart/static/css/main.17e57b12.css",
+    "main.js": "/Cart/static/js/main.52ae10b6.js",
+    "static/js/488.0f84848b.chunk.js": "/Cart/static/js/488.0f84848b.chunk.js",
+    "static/media/speaker.jpg": "/Cart/static/media/speaker.64dea21c25767a1f7a85.jpg",
+    "static/media/keyboard.jpg": "/Cart/static/media/keyboard.bd0b0bd2490291d7ffd6.jpg",
+    "static/media/headphones.jpg": "/Cart/static/media/headphones.a6e339d0503469aee6af.jpg",
+    "static/media/smartwatch.jpg": "/Cart/static/media/smartwatch.39db4aa804c9df53ef0e.jpg",
+    "index.html": "/Cart/index.html",
+    "main.17e57b12.css.map": "/Cart/static/css/main.17e57b12.css.map",
+    "main.52ae10b6.js.map": "/Cart/static/js/main.52ae10b6.js.map",
+    "488.0f84848b.chunk.js.map": "/Cart/static/js/488.0f84848b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1159271d.css",
-    "static/js/main.faea5b22.js"
+    "static/css/main.17e57b12.css",
+    "static/js/main.52ae10b6.js"
   ]
 }
