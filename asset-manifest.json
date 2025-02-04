@@ -1,19 +1,17 @@
 {
   "files": {
-    "main.css": "/react-formUsingHooks/static/css/main.17e57b12.css",
-    "main.js": "/react-formUsingHooks/static/js/main.b3c2654a.js",
-    "static/js/488.0f84848b.chunk.js": "/react-formUsingHooks/static/js/488.0f84848b.chunk.js",
+    "main.css": "/react-formUsingHooks/static/css/main.d29920e8.css",
+    "main.js": "/react-formUsingHooks/static/js/main.77b27eca.js",
     "static/media/speaker.jpg": "/react-formUsingHooks/static/media/speaker.64dea21c25767a1f7a85.jpg",
     "static/media/keyboard.jpg": "/react-formUsingHooks/static/media/keyboard.bd0b0bd2490291d7ffd6.jpg",
     "static/media/headphones.jpg": "/react-formUsingHooks/static/media/headphones.a6e339d0503469aee6af.jpg",
     "static/media/smartwatch.jpg": "/react-formUsingHooks/static/media/smartwatch.39db4aa804c9df53ef0e.jpg",
     "index.html": "/react-formUsingHooks/index.html",
-    "main.17e57b12.css.map": "/react-formUsingHooks/static/css/main.17e57b12.css.map",
-    "main.b3c2654a.js.map": "/react-formUsingHooks/static/js/main.b3c2654a.js.map",
-    "488.0f84848b.chunk.js.map": "/react-formUsingHooks/static/js/488.0f84848b.chunk.js.map"
+    "main.d29920e8.css.map": "/react-formUsingHooks/static/css/main.d29920e8.css.map",
+    "main.77b27eca.js.map": "/react-formUsingHooks/static/js/main.77b27eca.js.map"
   },
   "entrypoints": [
-    "static/css/main.17e57b12.css",
-    "static/js/main.b3c2654a.js"
+    "static/css/main.d29920e8.css",
+    "static/js/main.77b27eca.js"
   ]
 }
