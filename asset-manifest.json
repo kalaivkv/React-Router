@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/React-Router/static/css/main.6072d46e.css",
-    "main.js": "/React-Router/static/js/main.e671eb88.js",
-    "static/css/163.60bd8e74.chunk.css": "/React-Router/static/css/163.60bd8e74.chunk.css",
-    "static/js/163.cf46b7b4.chunk.js": "/React-Router/static/js/163.cf46b7b4.chunk.js",
+    "main.css": "/React-Router/static/css/main.94654ca6.css",
+    "main.js": "/React-Router/static/js/main.c1f73981.js",
+    "static/css/163.817a21dd.chunk.css": "/React-Router/static/css/163.817a21dd.chunk.css",
+    "static/js/163.35c50c9e.chunk.js": "/React-Router/static/js/163.35c50c9e.chunk.js",
+    "static/media/Taizo1.jpg": "/React-Router/static/media/Taizo1.77c07226b26670ba1033.jpg",
     "index.html": "/React-Router/index.html",
-    "main.6072d46e.css.map": "/React-Router/static/css/main.6072d46e.css.map",
-    "main.e671eb88.js.map": "/React-Router/static/js/main.e671eb88.js.map",
-    "163.60bd8e74.chunk.css.map": "/React-Router/static/css/163.60bd8e74.chunk.css.map",
-    "163.cf46b7b4.chunk.js.map": "/React-Router/static/js/163.cf46b7b4.chunk.js.map"
+    "main.94654ca6.css.map": "/React-Router/static/css/main.94654ca6.css.map",
+    "main.c1f73981.js.map": "/React-Router/static/js/main.c1f73981.js.map",
+    "163.817a21dd.chunk.css.map": "/React-Router/static/css/163.817a21dd.chunk.css.map",
+    "163.35c50c9e.chunk.js.map": "/React-Router/static/js/163.35c50c9e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6072d46e.css",
-    "static/js/main.e671eb88.js"
+    "static/css/main.94654ca6.css",
+    "static/js/main.c1f73981.js"
   ]
 }
